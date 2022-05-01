@@ -55,6 +55,6 @@ int main()
   }
   
   display() ;  //displaying the data of linked list 
-  return ;
+  return 0;
   
 }
